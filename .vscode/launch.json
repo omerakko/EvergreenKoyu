@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\omera\\Desktop\\EvergreenWeb\\EvergreenKoyu\\html\\index.html"
+            "file": "c:\\Users\\omera\\Documents\\Github\\EvergreenKoyu\\html\\index.html"
         }
     ]
 }
