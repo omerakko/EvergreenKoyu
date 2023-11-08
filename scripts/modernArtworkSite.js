@@ -2,7 +2,7 @@ const artworkContainer = document.getElementById('artwork-container');
 
 // Sample array of artwork URLs (replace with your own)
 const artworkURLs = [
-  'file:///C:/Users/omera/Documents/GitHub/EvergreenKoyu/images/alpana_logo.png'
+  'file:///C:\\xampp\\htdocs\\EvergreenKoyu\\images\\alpana_logo.png'
   
   // Add more artwork URLs as needed
 ];

@@ -1,0 +1,5 @@
+front:
+tailwind, css, js
+
+backend (node.js + express.js )
+API fetching

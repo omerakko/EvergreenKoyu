@@ -1,0 +1,20 @@
+version 1 : my first web app project for mama. 
+
+#main page
+
+Provide description of artist biography , a catchy title. 
+
+
+# categories:
+
+- modern artworks
+- artworks
+
+Each category should load infinit scroll until we reach and of our image list for that category. 
+Each image should describe art dimensions and techique and the date of creation.
+Some artworks have multiple views, so besides our vertical horizontal scrolling, we shouild be able to do a cyclic vertical scroll for a given art view. 
+
+
+Header: should contain navigation bar for categories, artist logo ( the mouse she had drawn ).
+
+ 

@@ -1,0 +1,12 @@
+
+#Sprint 1
+As a visitor, I would like to view artist picture, and description
+As a visitor, I would like to click on different art categories
+As a visitor, when i accessed a category, I would like to view art works of that category
+As a vistor, when i acess a work in a category, i would like to view the description of the artwork
+
+
+#Sprint 2
+As an administrator, i would like to add , remove and place works in the order i would like for each category. 
+
+
